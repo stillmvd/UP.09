@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'daikon_extra_light_italic';
+	src: url('Daikon-ExtraLightItalic.woff2') format('WOFF2'),
+		url('Daikon-ExtraLightItalic.woff') format('WOFF'),
+		url('Daikon-ExtraLightItalic.eot') format('EOT'),
+		url('Daikon-ExtraLightItalic.svg') format('SVG');
+	font-weight: normal;
+	font-style: normal;
+}

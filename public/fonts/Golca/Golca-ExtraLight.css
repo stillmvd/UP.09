@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'golca_extra_light';
+	src: url('Golca-ExtraLight.woff2') format('WOFF2'),
+		url('Golca-ExtraLight.woff') format('WOFF'),
+		url('Golca-ExtraLight.eot') format('EOT'),
+		url('Golca-ExtraLight.svg') format('SVG');
+	font-weight: normal;
+	font-style: normal;
+}

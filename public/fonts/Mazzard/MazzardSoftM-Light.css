@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'mazzard_soft_m_light';
+	src: url('MazzardSoftM-Light.woff2') format('WOFF2'),
+		url('MazzardSoftM-Light.woff') format('WOFF'),
+		url('MazzardSoftM-Light.eot') format('EOT'),
+		url('MazzardSoftM-Light.svg') format('SVG');
+	font-weight: normal;
+	font-style: normal;
+}

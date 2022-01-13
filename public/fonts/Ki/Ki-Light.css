@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'ki_light';
+	src: url('Ki-Light.woff2') format('WOFF2'),
+		url('Ki-Light.woff') format('WOFF'),
+		url('Ki-Light.eot') format('EOT'),
+		url('Ki-Light.svg') format('SVG');
+	font-weight: normal;
+	font-style: normal;
+}
